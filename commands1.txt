@@ -1,0 +1,6 @@
+ip domain name discovery.holdings.co.za
+crypto key gen rsa
+yes
+1024
+line vty 0 4
+transport input telnet ssh
